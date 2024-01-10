@@ -19,8 +19,28 @@ body {
     margin-top: -10px;
 }
 
+.navbar {
+    margin-left: auto; 
+}
+
+.navbar a {
+    display: inline;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #FFFFFF;
+    color: black;
+}
+
 .stats-container {
     display: flex;
+    align-items: flex;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
