@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img href='https://imgur.com/a/Fx1XNQL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<a href="https://imgur.com/a/Fx1XNQL" target="_blank" title="Video Walkthrough">
+    <img src='https://imgur.com/a/Fx1XNQL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... was not able to create a GIF. Screen recorded instead.
 <!-- Recommended tools:
